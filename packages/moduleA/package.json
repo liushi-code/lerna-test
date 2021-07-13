@@ -12,5 +12,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "2a988311b4b8c7f3d99c1bea35ac308255086194"
 }

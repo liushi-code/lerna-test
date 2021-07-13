@@ -12,5 +12,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "moment": "^2.29.1"
-  }
+  },
+  "gitHead": "2a988311b4b8c7f3d99c1bea35ac308255086194"
 }
